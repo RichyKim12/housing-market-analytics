@@ -1,0 +1,4 @@
+1. Deploy FastAPI backend on Render utilizing the dockerfile.
+    Render will build an image using the docker file, and then use that image to create the container instance
+2. Deploy PSQL db on supabase, retrieve API keys and make sure FastAPI can connect to the db
+
